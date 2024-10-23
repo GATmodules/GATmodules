@@ -90,8 +90,6 @@ Meaning of rudimentary?
 Meaning of Perplexed?
 -> confused, baffled, puzzled
 
----
-
 ### Alternative medicine 8
 
 Few practitioners of alternative medicine..?
