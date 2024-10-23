@@ -4,22 +4,22 @@
 
 ## **Analogies**: 16
 
-ACCEPT : REPEL -> GLEAN : SCATTER
-NIGHTMARE : FEAR -> PEACE : PROSPERITY
-PLANT : WATERING -> COIN : MINTING
-PONY : HORSE -> CHEDDAR : CHEESE
-EAGLE : HAWK -> RICE : WHEAT
-RODENT : SQUIRREL -> CANINE : WOLF
-REFUSAL : DENIAL -> REBUTTAL : REFUTATION
-JANUARY : DECEMBER -> A : Z
-TRUNK : BRANCH -> NECKLACE : DIAMOND
-PLATEAU : TOUGH -> BRAVE : COWARD
-CHAIR : SITTING -> ICE : SKATING
-APPLE : ORANGE -> ROOM:HUT
-HOSPITAL : WING -> WINDOW : ROOM (grading error apparently)
-IMPARTIAL : FAIR -> SIN : VICE
-HUMAN : MAMMAL -> TRUCK : VEHICLE
-DANGEROUS : PERIL -> SWORD : SABER
+accept : repel -> glean : scatter
+nightmare : fear -> peace : prosperity
+plant : watering -> coin : minting
+pony : horse -> cheddar : cheese
+eagle : hawk -> rice : wheat
+rodent : squirrel -> canine : wolf
+refusal : denial -> rebuttal : refutation
+january : december -> a : z
+trunk : branch -> necklace : diamond
+plateau : tough -> brave : coward
+chair : sitting -> ice : skating
+apple : orange -> room:hut
+hospital : wing -> window : room (grading error apparently)
+impartial : fair -> sin : vice
+human : mammal -> truck : vehicle
+dangerous : peril -> sword : saber
 
 ---
 
