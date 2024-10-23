@@ -5,20 +5,35 @@
 ## **Analogies**: 16
 
 accept : repel -> glean : scatter
+
 nightmare : fear -> peace : prosperity
+
 plant : watering -> coin : minting
+
 pony : horse -> cheddar : cheese
+
 eagle : hawk -> rice : wheat
+
 rodent : squirrel -> canine : wolf
+
 refusal : denial -> rebuttal : refutation
+
 january : december -> a : z
+
 trunk : branch -> necklace : diamond
+
 plateau : tough -> brave : coward
+
 chair : sitting -> ice : skating
+
 apple : orange -> room:hut
+
 hospital : wing -> window : room (grading error apparently)
+
 impartial : fair -> sin : vice
+
 human : mammal -> truck : vehicle
+
 dangerous : peril -> sword : saber
 
 ---
