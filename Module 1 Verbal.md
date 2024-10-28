@@ -44,18 +44,17 @@ I am ….. To move to London but I’m also quite ……  (excited/nervous)
 
 ## **Contextual Error**:
 
-Ultra-modern city Hong Kong is the most popular **(environmental)** destination in the world, where shopaholics seek for (bargains), full of bustling (markets) and malls. (environmental)
+Ultra-modern city Hong Kong is the most popular **(environmental)** destination in the world, where shopaholics seek for (bargains), full of bustling (markets) and malls. {{environmental}}
 
-The documentarists were frustrated about the lack of awareness of poverty in the US, so they decided to film an experiment where they’d live on the minimum (money) for a month. (money)
+The documentarists were frustrated about the lack of awareness of poverty in the US, so they decided to film an experiment where they’d live on the minimum (money) for a month. {{money}}
 
-Stop buying fashion magazines and looking at models; they have an obvious negative (impulse) on you. Besides, your pictures aren’t taken by expensive cameras and altered by programs. (impulse)
+Stop buying fashion magazines and looking at models; they have an obvious negative (impulse) on you. Besides, your pictures aren’t taken by expensive cameras and altered by programs. {{impulse}}
 
-I am a very (fit) guy because of work, I carry out baggages and (hold) them onto the truck. (hold) # The sentence isn't complete.
+I am a very (fit) guy because of work, I carry out baggages and (hold) them onto the truck. {{hold}} # The sentence isn't complete.
 
-(Whereas) in the jungle forget all your luxuries such as phone, Xbox. Instead you will need food and (shelter). (Whereas) # The sentence isn't complete
+(Whereas) in the jungle forget all your luxuries such as phone, Xbox. Instead you will need food and (shelter). {{Whereas}] $ The sentence isn't complete
 
-The Brazilian city of Minas Gerais is no ordinary city, it has the best transport system in the world. The mayor and council began (recognizing) the system in 2007. (recognizing)
-
+The Brazilian city of Minas Gerais is no ordinary city, it has the best transport system in the world. The mayor and council began (recognizing) the system in 2007. {{recognizing}}
 ---
 
 ## **Passages**:
