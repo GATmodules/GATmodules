@@ -1,9 +1,3 @@
-# Module 6 Verbal
-
-Last edited time: October 28, 2024 5:14 PM
-Last edited by: A Alzahrani
-Status: In progress
-
 # Module 6
 
 ?/52 questions added
