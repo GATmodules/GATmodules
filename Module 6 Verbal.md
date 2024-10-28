@@ -39,7 +39,7 @@ Branch : Leaves -> Country : Cities
 
 Generate : Energy -> Spin : Dizzy
 
-$$$ Someone didn’t get this
+$$$ 
 
 Metaphor : Symbol -> Analogy : Comparison
 
