@@ -9,7 +9,7 @@ Supermarket : Shopping -> Pool : Swim
 
 Bulb : Lamp -> Nut : Shell
 
-Lost : Map -> Definition : Dictionary / Sprain : Bandage
+Lost : Map -> Definition : Dictionary
 
 String : Guitar -> Feather : Bird
 
