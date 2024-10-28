@@ -11,21 +11,37 @@ Status: In progress
 ## Analogies:
 
 Egg : Oval -> Table : Round
+
 Oil : Greasy -> Chili : Spicy
+
 Apple : Fruit -> Monkey : Primate
+
 Scroll : Mouse -> Peel : Knife
+
 Ruler : Measure -> Pencil : Record
+
 Cry : Sadness -> Gasp : Surprise
+
 Water : Swimming -> Mountain : Climbing
+
 Eyes : Seeing -> Brain : Thinking
+
 Heart : Love -> Lion : Bravery
+
 Lost : Map -> Sprain : Bandage
+
 Unkind : Generosity -> Tasteless : Flavor
+
 Beginner : Expert -> Child : Adult
+
 Shoelace : Tie -> Button : Push
+
 Monkey: Primate -> Apple: Fruit
+
 Hardworking: Lazy -> Complete : Lacking
+
 Exercise: Fitness -> Monsoon : Flood
+
 Cry: Sadness -> Gasp : Surprise
 
 ---
