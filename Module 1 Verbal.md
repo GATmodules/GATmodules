@@ -50,7 +50,7 @@ The documentarists were frustrated about the lack of awareness of poverty in the
 
 Stop buying fashion magazines and looking at models; they have an obvious negative (impulse) on you. Besides, your pictures aren’t taken by expensive cameras and altered by programs. {{impulse}}
 
-I am a very (fit) guy because of work, I carry out baggages and (hold) them onto the truck. {{hold}} # The sentence isn't complete.
+I am a very (fit) guy because of work, I carry out baggages and (hold) them onto the truck. {{hold}} $ The sentence isn't complete.
 
 (Whereas) in the jungle forget all your luxuries such as phone, Xbox. Instead you will need food and (shelter). {{Whereas}] $ The sentence isn't complete
 
