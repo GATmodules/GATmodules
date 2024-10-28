@@ -40,7 +40,7 @@ Level : Flat -> Honor : Respect
 
 ## Sentence Completion:
 
-None added yet
+NOT ADDED YET ( IF YOU REMEMBER ANY PLEASE BE KIND AND SEND IT THROUGH THE CORRECTION FORM )
 
 ---
 
