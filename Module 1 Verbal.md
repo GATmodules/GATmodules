@@ -5,16 +5,27 @@
 ## **Analogies**:
 
 Icy : Slip -> Successful : Boast
+
 Pool : Swimming -> Runway : Land
+
 Novel : Poem -> Pencil : Marker
+
 Afraid : Terrified -> Funny : Hilarious
+
 Game : Play -> Research : Analyze
+
 Look : Glance -> Sleep : Nap
+
 Lens : Camera -> Wing : Plane
+
 Bulb : Lamp -> Nut : Shell
+
 Damage : Fix- > Danger : Hide
+
 Different : Dissimilar -> Appalled : Dreadful
+
 Damage : Fix -> Danger : Hide
+
 Gold : Ring -> Cotton : Shirt
 
 ---
