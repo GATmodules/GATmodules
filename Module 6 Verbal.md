@@ -9,38 +9,60 @@ Status: In progress
 ?/52 questions added
 
 ## Analogies: 27
-
 Sunset : Nightfall -> Early : Late
+
 Supermarket : Shopping -> Pool : Swim
+
 Bulb : Lamp -> Nut : Shell
+
 Lost : Map -> Definition : Dictionary / Sprain : Bandage
+
 String : Guitar -> Feather : Bird
+
 Dig : Bury -> Hum : Sing
+
 Suggest : Demand -> Hum : Sing
+
 Suggest : Demand -> Revise : Memorize
+
 Wind : Sandstorm -> Earthquake : Tsunami
+
 Holiday : Celebrations -> Jigsaw : Puzzle
+
 Allergy : Sneeze -> Invest : Wealth
+
 Paint : Brush -> Wash : Soap
+
 Paint : Brush -> Erase : Eraser
+
 Branch : Leaves -> Country : Cities
+
 Generate : Energy -> Spin : Dizzy
 
 $$$ Someone didn’t get this
 
 Metaphor : Symbol -> Analogy : Comparison
+
 Damage : Fix -> Danger Hide
+
 Ride : Horse -> Think : Brain
+
 Gold : Ring -> Cotton : Shirt
+
 Icy : Slip -> Successful : Boast
+
 Look : Glance -> Sleep : Nap
+
 Novel : Poem -> Pencil : Marker
+
 Celebration : Holiday -> Jigsaw : Puzzle
 
 $$$
 
 Beetle : Insect -> Biology : Science
+
 Protect : Abandon -> Purify : Contaminate
+
 Scarce : Abundant -> Death : Birth
 
 ---
