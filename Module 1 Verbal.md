@@ -55,6 +55,7 @@ I am a very (fit) guy because of work, I carry out baggages and (hold) them onto
 (Whereas) in the jungle forget all your luxuries such as phone, Xbox. Instead you will need food and (shelter). {{Whereas}] $ The sentence isn't complete
 
 The Brazilian city of Minas Gerais is no ordinary city, it has the best transport system in the world. The mayor and council began (recognizing) the system in 2007. {{recognizing}}
+
 ---
 
 ## **Passages**:
