@@ -1,44 +1,44 @@
 # Module 2
 
-43/44 questions added
+43/52 questions added
 
-## **Analogies**: 16
+## **Analogies**:
 
-accept : repel -> glean : scatter
+Accept : Repel -> Glean : Scatter
 
-nightmare : fear -> peace : prosperity
+Nightmare : Fear -> Peace : Prosperity
 
-plant : watering -> coin : minting
+Plant : Watering -> Coin : Minting
 
-pony : horse -> cheddar : cheese
+Pony : Horse -> Cheddar : Cheese
 
-eagle : hawk -> rice : wheat
+Eagle : Hawk -> Rice : Wheat
 
-rodent : squirrel -> canine : wolf
+Rodent : Squirrel -> Canine : Wolf
 
-refusal : denial -> rebuttal : refutation
+Refusal : Denial -> Rebuttal : Refutation
 
-january : december -> a : z
+January : December -> A : Z
 
-trunk : branch -> necklace : diamond
+Trunk : Branch -> Necklace : Diamond
 
-plateau : tough -> brave : coward
+Plateau : Tough -> Brave : Coward
 
-chair : sitting -> ice : skating
+Chair : Sitting -> Ice : Skating
 
-apple : orange -> room:hut
+Apple : Orange -> Room : Hut
 
-hospital : wing -> window : room (grading error apparently)
+Hospital : Wing -> Window : Room (Grading Error Apparently)
 
-impartial : fair -> sin : vice
+Impartial : Fair -> Sin : Vice
 
-human : mammal -> truck : vehicle
+Human : Mammal -> Truck : Vehicle
 
-dangerous : peril -> sword : saber
+Dangerous : Peril -> Sword : Saber
 
 ---
 
-## **Sentence Completion**: 10
+## **Sentence Completion**:
 
 Fish have ........... tails, aquatic ........... have horizontal. (vertical/mammals)
 
@@ -56,21 +56,21 @@ In order to price and knitted sweater multiply the cost of the ........... by th
 
 If you have a ........... job you must be able to support ........... three times your annual income. (steady/mortgage)
 
-Look for happiness in your ........... don't look for it in someone else's ........... . (home/garden) # The sentence is not complete
+Look for happiness in your ........... don't look for it in someone else's ........... . (home/garden) $ The sentence is not complete
 
 The ........... is like medicine ,we can taste its ..........., but we are not grateful for it. (truth/bitterness)
 
 ---
 
-## **Contextual Error**: 0
+## **Contextual Error**:
 
 NONE
 
 ---
 
-## **Passages**: 17
+## **Passages**:
 
-### Passages: Stars 4
+### Passages: Stars
 
 The general idea of the passage is?
 
@@ -88,7 +88,7 @@ What does it in paragraph one refer to?
 
 -> The camera
 
-### WW2 5
+### WW2
 
 Why were modern weapons able to destroy whole cities?
 -> Because they were sophisticated and more advanced
@@ -105,7 +105,7 @@ Meaning of rudimentary?
 Meaning of Perplexed?
 -> confused, baffled, puzzled
 
-### Alternative medicine 8
+### Alternative medicine
 
 Few practitioners of alternative medicine..?
 -> Consider their therapies to the complete replacements for modern medicine.
