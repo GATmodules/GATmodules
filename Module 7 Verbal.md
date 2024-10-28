@@ -1,9 +1,3 @@
-# Module 7 Verbal
-
-Last edited time: October 28, 2024 5:26 PM
-Last edited by: A Alzahrani
-Status: In progress
-
 # Module 7
 
 ?/52 questions added
