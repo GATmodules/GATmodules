@@ -71,7 +71,27 @@ If you don't _____ the first time, try ____ the next. (Succeed / harder)
 
 Taking the bus to ______ is a good thing because it helps ______ the environment (work/protect)
 
-Having good attendance is important , being_________ is usually a sign of ________ of motivation. (absent/lack)
+Having good attendance is important , being _________ is usually a sign of ________ of motivation. (absent/lack)
+
+The _______ is like medicine , we can taste its _______ but we’re not grateful for it. (truth/bitterness)
+
+The person doing the most __________ after a fender bender is usually the one that caused the________. (talking/accident)
+
+Idealists often have  __________ with being _________ in their every day life.(difficulty/practical)
+
+Sara stayed home for summer _______ to _______ her money.(vacation/save)
+
+He who ________ the guilty threatens the ________ .(Spares/innocent)
+
+Beauty without __________  is like a hook without it’s ___________ .(grace/bait)
+
+I would love to stay in a village where it __________  to be calm and quiet. Life in cities is ___________ too busy.(tends/simply)
+
+Each occupation has its own _____ ;bankers, lawyers and computer professionals, for example, all use among themselves language which out- siders have difficulty following.(jargon)
+
+Biological clocks are of such ________ adaptive value to living organisms, that we would expect most organisms to _______ them. (obvious/possess)
+
+My father said I needed a __________ to come with me to the conference because I was not old enough to go ____________ so I brought my friend with me. (Companion/Alone)
 
 ---
 
