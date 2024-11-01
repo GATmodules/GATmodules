@@ -1,6 +1,8 @@
 # GAT modules
 ## Made by [GATdiscussions](https://t.me/GATdiscussions) and [GATleaks](https://t.me/GATleaks)
 
+We’ve compiled all the leaked questions from past GAT verbal sections into a series of test modules that mirror the actual test. 
+
 To keep these modules as accurate as possible, I’m asking everyone to make a quick commitment: if you use these materials, please submit any missing questions or corrections after your test via this Google Forms. Let’s all pitch in to help each other succeed!
 
 https://docs.google.com/forms/d/e/1FAIpQLSdpFlUYwslhD3_CyqJnaBUFbQTrfuw1PDYrM4WzKlIQOQWg6A/viewform
