@@ -7,6 +7,7 @@ To keep these modules as accurate as possible, I’m asking everyone to make a q
 
 https://docs.google.com/forms/d/e/1FAIpQLSdpFlUYwslhD3_CyqJnaBUFbQTrfuw1PDYrM4WzKlIQOQWg6A/viewform
 
+---
 
 For the Quantitative secion send your leaks to
 https://t.me/abodd_2
@@ -14,6 +15,7 @@ https://t.me/abodd_2
 So they can be sent in the GATleaks channel
 https://t.me/GATleaks
 
+---
  
 ### Last Edited October 2024
 - https://t.me/GATdiscussions
