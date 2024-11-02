@@ -127,15 +127,19 @@ What is the basis of Sami economy
  ->Reindeer Herding
 
 What does the word Jagged mean?
+
 -> rugged
 
 What is it that we take from paragraph 4?
+
 -> there is a strong connection between language and culture.
 
 What do Sami Herders focus on achieving in their tradition of reindeer herding?
+
 -> becoming one with the herd.
 
 How do you describe the treatment of young Sami herders in the compulsory boarding school?
+
 -> Discrimination, because they were forbidden from speaking their own language.
 
 What keeps the herdsman busy?
