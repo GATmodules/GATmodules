@@ -1,7 +1,7 @@
 # GAT modules
 ## Made by [GATdiscussions](https://t.me/GATdiscussions) and [GATleaks](https://t.me/GATleaks)
 
-لا نحلل اي مدرس او مدرسة استخدم النماذج في دورته او ملفاته غير المجانيه دون اذن وحسبنا الله ونعم الوكيل عن من اخذها #
+# لا نحلل اي مدرس او مدرسة استخدم النماذج في دورته او ملفاته غير المجانيه دون اذن وحسبنا الله ونعم الوكيل عن من اخذها
 
 We’ve compiled all the leaked questions from past GAT verbal sections into a series of test modules that mirror the actual test. 
 
