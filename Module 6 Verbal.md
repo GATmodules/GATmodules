@@ -3,7 +3,7 @@
 ?/52 questions added
 
 ## Analogies: 27
-Sunset : Nightfall -> Early : Late
+Sunset : Nightfall -> Crawl : Walk 
 
 Supermarket : Shopping -> Pool : Swim
 
