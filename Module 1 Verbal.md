@@ -24,8 +24,6 @@ Damage : Fix- > Danger : Hide
 
 Different : Dissimilar -> Appalled : Dreadful
 
-Damage : Fix -> Danger : Hide
-
 Gold : Ring -> Cotton : Shirt
 
 ---
